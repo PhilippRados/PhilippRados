@@ -4,8 +4,8 @@ I'm a self taught software developer who started in python and dabbling in AI, t
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhilippRados&show_icons=true&theme=dark" width="380">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PhilippRados&theme=dark&hide_border=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=PhilippRados&show_icons=true&theme=dark" height="160">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PhilippRados&theme=dark&hide_border=false" height="160">
 </p>
 
 ---
