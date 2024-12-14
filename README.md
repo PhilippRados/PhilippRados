@@ -2,6 +2,8 @@
 
 I'm a software engineer who started in python and dabbling in AI, transitioned to embedded writing [smart vinyl](https://github.com/PhilippRados/Smart_Vinyl) and then some more systems programming related stuff when writing my own [pshell](https://github.com/PhilippRados/PShell) in C. For the past few years I have been really interested in compilers which is why I wrote my own C compiler [wrecc](https://github.com/PhilippRados/wrecc). I kind of like writing stuff from scratch.
 
+I recently completed my Bachelor's degree in Computer Science and am currently seeking job opportunities. Feel free to reach out to me via 📧 [email](mailto:phil.rados@gmail.com).
+
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhilippRados&show_icons=true&theme=dark" height="160">
