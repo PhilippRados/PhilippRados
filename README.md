@@ -1,8 +1,6 @@
 ## Hi I'm Philipp 👋
 
-I'm a software engineer who started in python and dabbling in AI, transitioned to embedded writing [smart vinyl](https://github.com/PhilippRados/Smart_Vinyl) and then some more systems programming related stuff when writing my own [pshell](https://github.com/PhilippRados/PShell) in C. For the past few years I have been really interested in compilers which is why I wrote my own C compiler [wrecc](https://github.com/PhilippRados/wrecc). I kind of like writing stuff from scratch.
-
-I recently completed my Bachelor's degree in Computer Science and am currently seeking job opportunities. Feel free to reach out to me via [email](mailto:phil.rados@gmail.com) 📧.
+I'm a software engineer who likes writing stuff from scratch. I'm interested in low-level software especially compilers. I have written a C compiler [wrecc](https://github.com/PhilippRados/wrecc), a shell [pshell](https://github.com/PhilippRados/Pshell), a basic RISC-V emulator [ruscv](https://github.com/PhilippRados/ruscv), a system that let's me play records from my phone [SmartVinyl](https://github.com/PhilippRados/SmartVinyl), and lot's more.
 
 ---
 <p align="center">
